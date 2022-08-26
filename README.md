@@ -30,7 +30,11 @@
   <a href="https://www.linkedin.com/in/rafael-lemos-579228241/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
  
+ ###
  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tkhx12&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Tkhx github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkhx12&layout=compact&theme=dark&hide_border=true" /></a> |
+ | ------------- | ------------- |
+###
  
 ![snake gif](https://github.com/Tkhx12/Tkhx12/blob/output/github-contribution-grid-snake.svg)
