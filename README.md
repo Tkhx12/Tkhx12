@@ -5,7 +5,6 @@
 <p>Seja bem vindo, Meu nome é Rafael Lemos!</p>
 
 ###
-
   <p>📖Estudando Dev Front-End</p>
   
   Amante de Tecnologia e Astronomia. 
