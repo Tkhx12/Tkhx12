@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/Tkhx12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tkhx12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkhx12&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tkhx12&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Tkhx github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkhx12&layout=compact&theme=synthwave&hide_border=true" /></a> |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
